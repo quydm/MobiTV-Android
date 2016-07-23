@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MobiTV</string>
+    <string name="loading">Loading&#8230;</string>
+    <string name="txt_customer_name">Nhập tên khách hàng</string>
+    <string name="txt_phone">Số điện thoại</string>
+    <string name="btn_next">Tiếp tục</string>
+    <string name="btn_replay">Chơi lại</string>
+    <string name="btn_quit">Thoát</string>
+    <string name="lbl_question_number">Câu %1$d</string>
+    <string name="answered_question_number">Câu %1$d: %2$s</string>
+    <string name="lbl_question">Câu hỏi:</string>
+    <string name="lbl_answers">Đáp án:</string>
+    <string name="answered_answers">Đáp án: %1$s</string>
+    <string name="lbl_message1">Thật không thể tin nổi!</string>
+    <string name="lbl_message2">Chúc mừng bạn đã dành được một phần quà đến từ MobiTV</string>
+    <string name="lbl_message3">Chúc bạn may mắn lần sau!</string>
+    <string name="empty_customer_name">Vui lòng nhập tên khách hàng</string>
+    <string name="empty_phone">Vui lòng nhập số điện thoại</string>
+
+    <string name="splash_screen1">TRUYỀN HÌNH</string>
+    <string name="splash_screen2">KTS KHÔNG DÂY</string>
+
+</resources>
